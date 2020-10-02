@@ -52,4 +52,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - HTML
 - CSS
 - Javascript
+- Adobe XD (criação do design)
 
