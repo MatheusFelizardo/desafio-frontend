@@ -29,7 +29,7 @@ Projeto criado para participação do processo na empresa Inforce.
 
 ## :scream: Maiores Dificuldades
 
-Criação do slider no banner do zero, criação do carousel para as noticias e noticias, consumo da api no direto no frontend.
+Criação do slider no banner do zero, criação do carousel para os imoveis e noticias, consumo da api no direto no frontend.
 
 Motivo das dificuldade: A unica vez que tinha feito um slider/carousel foi usando o bootstrap e somente tinha consumido os dados da API pelo backend, onde eu utilizo a template engine Nunjucks para mostrar os dados no front. 
 Soluções: 
