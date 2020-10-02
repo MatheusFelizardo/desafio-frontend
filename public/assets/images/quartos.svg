@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="20" viewBox="0 0 40 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="40" height="20" transform="translate(402 664)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="quartos-icon" transform="translate(-402 -664)" clip-path="url(#clip-path)">
+    <g id="cama" transform="translate(407.162 659.162)">
+      <g id="Group_3" data-name="Group 3">
+        <g id="Group_2" data-name="Group 2">
+          <path id="Path_21" data-name="Path 21" d="M26.38,9.35H11.031c-.75,0-2,.284-2,2.213v2.951H28.382V11.563C28.382,9.64,27.13,9.35,26.38,9.35Z"/>
+        </g>
+      </g>
+      <g id="Group_5" data-name="Group 5">
+        <g id="Group_4" data-name="Group 4">
+          <path id="Path_22" data-name="Path 22" d="M4.856,15.156H1.935V4.838H0v20H1.935V19.673H27.741v5.159h1.935V15.156Z"/>
+        </g>
+      </g>
+      <g id="Group_7" data-name="Group 7">
+        <g id="Group_6" data-name="Group 6">
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="2.703" cy="2.703" r="2.703" transform="translate(2.455 9.229)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
