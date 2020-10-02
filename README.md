@@ -35,9 +35,9 @@ Motivo das dificuldade: A unica vez que tinha feito um slider/carousel foi usand
 Soluções: 
 - Para o slider do banner: encontrei uma mini lib chamada GlideJs e fiz o uso dela, o problema é que acredito que ela só possa ser usada com uma configuração por página, então não consegui utilizar no carousel.
 
-- Carousel vitrines e noticias: Como não consegui utilizar o GlideJS, eu criei uma div (carousel-content) com overflow:hidden, dentro dela criei uma outra div com flex-wrap: nowrap e coloquei nela 3000px de widht e ela que se move com o translateX, depois disso criei uma ul pra receber os dados da API.
+- Carousel vitrines e noticias: Como não consegui utilizar o GlideJS, eu criei uma div (carousel-content) com overflow:hidden, dentro dela criei uma outra div com flex-wrap: nowrap e coloquei nela 3000px de width e ela que se move com o translateX, depois disso criei uma ul pra receber os dados da API.
 	
-- Sobre a API: Consegui obter os dados da API mas nunca tinha mostrado esse resultado direto pelo front, então a solução que criei foi fazer um forEach com  os dados, criei uma variável com o HTML pré formatado, já passando os dados vindos da API e depois de um innerHTML na ul criada para receber os dados.
+- Sobre a API: Consegui obter os dados da API mas nunca tinha mostrado esse resultado direto pelo front, então a solução que criei foi fazer um forEach com  os dados, criei uma variável com o HTML pré formatado, já passando os dados vindos da API e depois dei um innerHTML na ul criada para receber os dados.
 
 ## :seedling: Requisitos Mínimos
 
